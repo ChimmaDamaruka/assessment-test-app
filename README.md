@@ -1,2 +1,2 @@
 word = "devopsassessment"
-print(len(word))
+print("Number of letters in the word devopsassessment is" +len(word))
